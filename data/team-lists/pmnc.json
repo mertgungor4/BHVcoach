@@ -1,0 +1,293 @@
+{
+  "name": "PMNC",
+  "teams": [
+    {
+      "id": 2,
+      "name": "17GAMING",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 1,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/17gaming_1746222388789.png"
+    },
+    {
+      "id": 3,
+      "name": "BBL",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 2,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/bbl_1746222394550.png"
+    },
+    {
+      "id": 4,
+      "name": "BIG",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 3,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/big_1746222397960.png"
+    },
+    {
+      "id": 5,
+      "name": "DWG",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 4,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/dwg_1746222401230.png"
+    },
+    {
+      "id": 6,
+      "name": "ENCE",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 5,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/ence_1746222404518.png"
+    },
+    {
+      "id": 7,
+      "name": "FAZE",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 6,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/faze_1746222407132.png"
+    },
+    {
+      "id": 8,
+      "name": "FUT",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 7,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/fut_1746222409559.png"
+    },
+    {
+      "id": 9,
+      "name": "GEN.G",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 8,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/gen.g_1746222412139.png"
+    },
+    {
+      "id": 10,
+      "name": "HEROIC",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 9,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/heroic_1746222414488.png"
+    },
+    {
+      "id": 11,
+      "name": "LIQUID",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 10,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/liquid_1746222417788.png"
+    },
+    {
+      "id": 12,
+      "name": "NAVI",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 11,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/navi_1746222421296.png"
+    },
+    {
+      "id": 13,
+      "name": "S2G",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 12,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/s2g_1746222424285.png"
+    },
+    {
+      "id": 14,
+      "name": "SQ",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 13,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/sq_1746222426721.png"
+    },
+    {
+      "id": 15,
+      "name": "TSM",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 14,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/tsm_1746222429069.png"
+    },
+    {
+      "id": 16,
+      "name": "VP",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 15,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/vp_1746222433173.png"
+    },
+    {
+      "id": 17,
+      "name": "FB",
+      "players": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "position": 16,
+      "playerNames": [
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4"
+      ],
+      "logo_url": "/logos/fb_1746222551454.png"
+    }
+  ]
+}
